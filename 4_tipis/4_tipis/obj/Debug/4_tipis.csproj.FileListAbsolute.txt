@@ -1,0 +1,10 @@
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\obj\Debug\4_tipis.csproj.AssemblyReference.cache
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\obj\Debug\_4_tipis.Form1.resources
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\obj\Debug\_4_tipis.Properties.Resources.resources
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\obj\Debug\4_tipis.csproj.GenerateResource.cache
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\obj\Debug\4_tipis.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\bin\Debug\4_tipis.exe.config
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\bin\Debug\4_tipis.exe
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\bin\Debug\4_tipis.pdb
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\obj\Debug\4_tipis.exe
+C:\Users\Любовь\source\repos\4_tipis\4_tipis\obj\Debug\4_tipis.pdb
