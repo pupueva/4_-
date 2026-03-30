@@ -1,0 +1,10 @@
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\obj\Debug\2_tipis.csproj.AssemblyReference.cache
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\obj\Debug\_2_tipis.Properties.Resources.resources
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\obj\Debug\2_tipis.csproj.GenerateResource.cache
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\obj\Debug\2_tipis.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\bin\Debug\2_tipis.exe.config
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\bin\Debug\2_tipis.exe
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\bin\Debug\2_tipis.pdb
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\obj\Debug\tipis2.Form1.resources
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\obj\Debug\2_tipis.exe
+C:\Users\Любовь\source\repos\2_tipis\2_tipis\obj\Debug\2_tipis.pdb
