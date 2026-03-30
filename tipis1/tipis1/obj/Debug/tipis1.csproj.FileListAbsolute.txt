@@ -1,0 +1,10 @@
+C:\Users\Любовь\source\repos\tipis1\tipis1\bin\Debug\tipis1.exe.config
+C:\Users\Любовь\source\repos\tipis1\tipis1\bin\Debug\tipis1.exe
+C:\Users\Любовь\source\repos\tipis1\tipis1\bin\Debug\tipis1.pdb
+C:\Users\Любовь\source\repos\tipis1\tipis1\obj\Debug\tipis1.csproj.AssemblyReference.cache
+C:\Users\Любовь\source\repos\tipis1\tipis1\obj\Debug\tipis1.Form1.resources
+C:\Users\Любовь\source\repos\tipis1\tipis1\obj\Debug\tipis1.Properties.Resources.resources
+C:\Users\Любовь\source\repos\tipis1\tipis1\obj\Debug\tipis1.csproj.GenerateResource.cache
+C:\Users\Любовь\source\repos\tipis1\tipis1\obj\Debug\tipis1.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\source\repos\tipis1\tipis1\obj\Debug\tipis1.exe
+C:\Users\Любовь\source\repos\tipis1\tipis1\obj\Debug\tipis1.pdb
