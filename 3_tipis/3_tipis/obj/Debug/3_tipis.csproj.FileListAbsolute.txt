@@ -1,0 +1,10 @@
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\obj\Debug\3_tipis.csproj.AssemblyReference.cache
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\obj\Debug\_3_tipis.Form1.resources
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\obj\Debug\_3_tipis.Properties.Resources.resources
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\obj\Debug\3_tipis.csproj.GenerateResource.cache
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\obj\Debug\3_tipis.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\bin\Debug\3_tipis.exe.config
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\bin\Debug\3_tipis.exe
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\bin\Debug\3_tipis.pdb
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\obj\Debug\3_tipis.exe
+C:\Users\Любовь\source\repos\3_tipis\3_tipis\obj\Debug\3_tipis.pdb
